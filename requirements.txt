@@ -1,0 +1,19 @@
+# requirements.txt
+streamlit==1.30.0
+fastapi==0.110.0
+uvicorn==0.27.0
+openai==1.12.0
+langchain==0.1.5
+langchain-openai==0.0.5
+langchain-community==0.0.14
+langchain-chroma==0.0.5
+langchain-ollama==0.0.3
+chromadb==0.4.22
+PyPDF2==3.0.1
+requests==2.31.0
+python-dotenv==1.0.0
+pydantic==2.5.2
+tiktoken==0.5.2
+pandas==2.2.0
+numpy==1.26.4
+scikit-learn==1.4.0
