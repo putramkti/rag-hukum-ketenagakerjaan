@@ -93,11 +93,6 @@ This will open the user interface in your default web browser on `http://localho
 ## Research Contribution
 This project highlights the vast potential of applying AI within the Indonesian legal sector. By decisively solving the critical flaw of LLM hallucinations using a state-of-the-art Hybrid Retrieval architecture, this research contributes to democratizing legal knowledge. It demonstrates how modern systems can make hyper-complex legal regulations accessible, reliable, and easily understandable for ordinary workers and practitioners alike.
 
-## Future Work
-- Connecting to real-time updating government APIs to continually automate the updates of regulatory laws.
-- Incorporating conversational memory (chat history) so follow-up contextual questions can be asked.
-- Expanding the scope to include case law/jurisprudence directly from Mahkamah Agung decisions.
-
 ## Author
 - **Putra Jadi Mukti**
 - *Universitas Pembangunan Nasional “Veteran” Yogyakarta (2025)*
