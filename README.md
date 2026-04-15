@@ -1,4 +1,4 @@
-# Legal-QA-RAG: Indonesian Labor Law Question Answering System
+# Indonesian Labor Law Question Answering System
 
 ## Overview
 This repository contains a final-year thesis (**Skripsi**) project implementing a Retrieval-Augmented Generation (RAG) system for Question Answering on Indonesian Labor Law. The system is designed to provide accurate, contextually relevant answers to complex legal questions, effectively mitigating the severe issue of "hallucination" commonly found in generative Large Language Models (LLMs).
