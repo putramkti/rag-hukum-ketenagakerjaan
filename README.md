@@ -52,7 +52,6 @@ The architecture was comprehensively evaluated using the **RAGAS (Retrieval-Augm
 ## Results
 - The system was tested against 18 complex, multi-layered legal questions validated by labor law experts.
 - Achieved **94.44% accuracy**, with 17 out of 18 answers strictly complying with the legal substance.
-- In comparative validation, tests performed *without* the RAG grounding yielded a **0% compliance rate**, definitively proving that standard LLMs cannot be trusted for legal QA without a robust RAG architecture.
 
 ## Installation
 1. Clone this repository:
